@@ -40,7 +40,6 @@ echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
 # instalamos ruby
 rvm install 2.0.0-p451
 rvm use 2.0.0-p451 --default
-#echo 'se ha instalado' ruby -v
 
 echo "gem: --no-ri --no-rdoc" > ~/.gemrc
 #Para instalar rails
